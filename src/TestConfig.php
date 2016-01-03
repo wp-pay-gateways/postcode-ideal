@@ -1,4 +1,4 @@
-<?php
+\<?php
 
 /**
  * Title: Postcode iDEAL config test
@@ -8,7 +8,7 @@
  * @author Remco Tolsma
  * @version 1.0.0
  */
-class Pronamic_WP_Pay_Gateways_PostcodeIDeal_ConfigTest extends Pronamic_WP_Pay_Gateways_PostcodeIDeal_Config {
+class Pronamic_WP_Pay_Gateways_PostcodeIDeal_TestConfig extends Pronamic_WP_Pay_Gateways_PostcodeIDeal_Config {
 	public function get_payment_server_url() {
 		return 'https://ideal-test.postcode.nl/ideal';
 	}
