@@ -10,6 +10,6 @@
  */
 class Pronamic_WP_Pay_Gateways_PostcodeIDeal_ConfigFactory extends Pronamic_WP_Pay_Gateways_IDealAdvancedV3_ConfigFactory {
 	public function __construct() {
-		parent::__construct( 'Pronamic_WP_Pay_Gateways_PostcodeIDeal_Config', 'Pronamic_WP_Pay_Gateways_PostcodeIDeal_ConfigTest' );
+		parent::__construct( 'Pronamic_WP_Pay_Gateways_PostcodeIDeal_Config', 'Pronamic_WP_Pay_Gateways_PostcodeIDeal_TestConfig' );
 	}
 }
