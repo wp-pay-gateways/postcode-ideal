@@ -1,4 +1,4 @@
-\<?php
+<?php
 
 /**
  * Title: Postcode iDEAL config test
