@@ -1,4 +1,4 @@
-# WordPress Pay Gateway: Postcode iDEAL
+# [DEPRECATED] WordPress Pay Gateway: Postcode iDEAL
 
 **Postcode iDEAL driver for the WordPress payment processing library.**
 

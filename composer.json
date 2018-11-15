@@ -1,7 +1,7 @@
 {
 	"name": "wp-pay-gateways/postcode-ideal",
 	"description": "Postcode iDEAL driver for the WordPress payment processing library.",
-	"keywords": ["wordpress", "wp", "pay", "postcode", "ideal", "gateway", "pronamic"],
+	"keywords": ["deprecated", "wordpress", "wp", "pay", "postcode", "ideal", "gateway", "pronamic"],
 	"homepage": "http://www.wp-pay.org/gateways/postcode-ideal/",
 	"license": "GPL",
 	"authors": [
